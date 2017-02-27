@@ -1,0 +1,19 @@
+@media screen and (max-width: 1220px) {
+    //why
+    .why {
+        .why-download_contant {
+            top: -200px !important;
+            left: -120%;
+            width: 200% !important;
+            
+            .wrapp {
+                .why-dowload_button {
+                    padding: 20px !important;
+                    margin-bottom: 10px !important;
+                    width: 40%;
+                }
+                
+            }
+        }
+    }
+}
